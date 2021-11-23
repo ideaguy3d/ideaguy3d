@@ -7,4 +7,5 @@
 6. Algorithms💻 SQL Alchemy🧪 PySpark🔄 MS Excel❎
 
 ... I work 50-60 hours a week & study 50-60 hours a week #NoLife
-From 2009-2016 I made 3D animations & 3D games, hence "ideaguy**3d**" 🎮👾
+****
+From 2009-2016 I made 3D animations & 3D games ❤️, hence "ideaguy**3d**" 🎮👾
