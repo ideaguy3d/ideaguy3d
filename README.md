@@ -2,9 +2,9 @@
 1. Autodidact📚 DataAnalyst🧐 & Engineer🤓  
 2. GCP/AWS☁ BigData🚀 Neuroscience🧠 
 3. MySQL🐬 PHP🐘 Python🐍 JavaScript🤟 
-4. MachineLearning🤖 DC/DP Recursion👩‍💻 Tableau🎨 
+4. MachineLearning🤖 Recursion🪞🪞 Tableau🎨 
 5. GraphTheory🗺 Probability➗ Statistics📊
-6. Algorithms💻 SQL Alchemy🧪 PySpark🔄 MS Excel❎
+6. Algorithms💻 SQL Alchemy🧪 PySpark🔄 Excel❎
 
 ... I work 50-60 hours a week & study 50-60 hours a week #NoLife
 ****
