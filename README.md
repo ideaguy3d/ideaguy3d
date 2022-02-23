@@ -8,5 +8,11 @@
 7. Tableau🎨 Excel❎ Blockchain⛓
 
 ... I work 50-60 hours a week & study 50-60 hours a week #NoLife
+
 ****
+
 From 2009-2015 I made 3D animations(Blender3D) & 3D games(Unity3D) ❤️, hence "ideaguy **_3d_** " 🎮👾
+
+--
+
+ ![](https://komarev.com/ghpvc/?username=ideaguy3d)
