@@ -5,7 +5,7 @@
 4. MachineLearning🤖 Recursion🪞🪞  
 5. GraphTheory🗺 Probability➗ Statistics📊
 6. Algorithms💻 SQL Alchemy🧪 PySpark🔄 
-7. Tableau🎨 Excel❎ Blockchain⛓
+7. Tableau🎨 Excel❎ BlockchainTech⛓
 
 ... I work 50-60 hours a week & study 50-60 hours a week #NoLife
 
