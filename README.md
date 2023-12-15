@@ -1,6 +1,6 @@
 # **[Autodidact](https://en.wikipedia.org/wiki/Autodidacticism) = Self-Taught**
 1. Autodidact📚 
-2. GCP/AWS☁ BigData🚀 Neuroscience🧠 
+2. PyTorch🔥 BigData🚀 Neuroscience🧠 
 3. MySQL🐬 PHP🐘 Python🐍 JS🤟 C#️⃣
 4. MachineLearning🤖 Recursion🪞🪞  
 5. GraphTheory🗺 Probability➗ Statistics📊
