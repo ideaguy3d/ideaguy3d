@@ -2,7 +2,7 @@
 1. Autodidact📚 
 2. PyTorch🔥 BigData🚀 Neuroscience🧠 
 3. MySQL🐬 PHP🐘 Python🐍 JS🤟 C#️⃣
-4. MachineLearning🤖 Recursion🪞🪞  
+4. Deep Reinforcement Learning Σ🤖🧑‍⚖️ 
 5. GraphTheory🗺 Probability➗ Statistics📊
 6. Algorithms💻 SQL Alchemy🧪 PySpark🔄 
 7. Tableau🎨 Excel❎ BlockchainTech⛓
