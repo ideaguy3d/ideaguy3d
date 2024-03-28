@@ -1,8 +1,8 @@
 # **[Autodidact](https://en.wikipedia.org/wiki/Autodidacticism) = Self-Taught**
 1. Autodidact📚 
-2. PyTorch🔥 BigData🚀 Neuroscience🧠 
+2. Deep Reinforcement Learning Σ🤖🧑‍⚖️
 3. MySQL🐬 PHP🐘 Python🐍 JS🤟 C#️⃣
-4. Deep Reinforcement Learning Σ🤖🧑‍⚖️ 
+4. PyTorch🔥 BigData🚀 Neuroscience🧠 
 5. GraphTheory🗺 Probability➗ Statistics📊
 6. Algorithms💻 SQL Alchemy🧪 PySpark🔄 
 7. Tableau🎨 Excel❎ BlockchainTech⛓
