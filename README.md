@@ -5,7 +5,7 @@
 4. PyTorch🔥 BigData🚀 Neuroscience🧠 
 5. GraphTheory🗺 Probability➗ Statistics📊
 6. Algorithms💻 SQL Alchemy🧪 PySpark🔄 
-7. Tableau🎨 Excel❎ BlockchainTech⛓
+7. Tableau🎨 The NeuroEndocrine System🫁
 
 ... I work 50-60 hours a week & study 50-60 hours a week #NoLife
 
