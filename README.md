@@ -1,5 +1,5 @@
 # **[Autodidact](https://en.wikipedia.org/wiki/Autodidacticism) = Self-Taught**
-1. Autodidact📚 Nerd🤓
+1. Autodidact📚 Geek🤓
 2. Deep Reinforcement Learning Σ🤖🧑‍⚖️
 3. MySQL🐬 PHP🐘 Python🐍 JS🤟 C#️⃣
 4. PyTorch🔥 BigData🚀 Neuroscience🧠 
