@@ -1,11 +1,13 @@
 # **[Autodidact](https://en.wikipedia.org/wiki/Autodidacticism) = Self-Taught**
-1. Autodidact📚 Geek🤓
-2. Deep Reinforcement Learning Σ🤖🧑‍⚖️
-3. MySQL🐬 PHP🐘 Python🐍 JS🤟 C#️⃣
-4. PyTorch🔥 BigData🚀 Neuroscience🧠 
-5. GraphTheory🗺 Probability➗ Statistics📊
-6. Algorithms💻 SQL Alchemy🧪 PySpark🔄 
-7. Tableau🎨 The NeuroEndocrine System🫁
+1. Autodidact📚
+2. Geek🤓
+3. Deep Reinforcement Learning Σ🤖🧑‍⚖️
+4. MySQL🐬 PHP🐘 Python🐍 JS🤟 C#️⃣
+5. PyTorch🔥 BigData🚀 Neuroscience🧠 
+6. GraphTheory🗺 Probability➗ Statistics📊
+7. Algorithms💻 SQL Alchemy🧪 PySpark🔄 
+8. Tableau🎨 The NeuroEndocrine System🫁
+9. Psychology 🧐
 
 ... I work 50-60 hours a week & study 50-60 hours a week #NoLife
 
