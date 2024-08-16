@@ -7,7 +7,7 @@
 6. GraphTheory🗺 Probability➗ Statistics📊
 7. Algorithms💻 SQL Alchemy🧪 PySpark🔄 
 8. Tableau🎨 The NeuroEndocrine System🫁
-9. Psychology 🧐
+9. Psychology🧐 Brain Computer Interfaces👩‍🔬
 
 ... I work 50-60 hours a week & study 50-60 hours a week #NoLife
 
