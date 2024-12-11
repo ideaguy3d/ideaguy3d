@@ -5,7 +5,7 @@
 4. MySQL🐬 PHP🐘 Python🐍 JS🤟 C#️⃣
 5. PyTorch🔥 BigData🚀 Neuroscience🧠 
 6. GraphTheory🗺 Probability➗ Statistics📊
-7. Algorithms💻 SQL Alchemy🧪 PySpark🔄 
+7. Algorithms💻 SQL Alchemy🧪 PySpark⭐️
 8. Tableau🎨 The NeuroEndocrine System🫁
 9. Psychology🧐 Brain Computer Interfaces👩‍🔬
 
